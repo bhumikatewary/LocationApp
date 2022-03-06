@@ -2,4 +2,4 @@
 
 See your current descriptive location 
 
-<img alt="GIF" src="leetcode.png" width="500" height="350" />
+<img alt="GIF" src="image.webp" width="500" height="350" />
